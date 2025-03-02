@@ -7,7 +7,8 @@ Dan Masukan Password 123
 • Akses Free 
 # Feature 
 • Pengisian Cepat Instan Dan Login Menggunakan Id Device 
-• HTTP Canary ( Get X-Auth Token / Device ID Login )
+
+• HTTP Canary ( Get Device ID Login )
 
 • BUSSID 3.6.1 ( Only To Get X-Auth Token / Device ID )
 

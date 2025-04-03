@@ -1,7 +1,7 @@
 # Bussid-Top-Up-Free-Akses
 # Tutorial Mendapatkan Akses Free
-• Kalian Pergi Ke Telegram @Ryuuuuui_bot /
-• https://t.me/Ryuuuuui_bot 
+• Kalian Pergi Ke Telegram @TopUpBussidByRyuu_bot /
+• https://t.me/TopUpBussidByRyuu_bot 
 • Kalian Register Dulu Dengan /freeregist 
 Dan Masukan Password 123
 • Akses Free 
